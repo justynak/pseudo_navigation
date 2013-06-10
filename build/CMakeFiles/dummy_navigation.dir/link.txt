@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g -DNDEBUG     -pthread CMakeFiles/dummy_navigation.dir/src/main.o  -o ../bin/dummy_navigation  -L/opt/ros/fuerte/lib -rdynamic -lroscpp -lrostime -lrosconsole -lroscpp_serialization -lxmlrpcpp -Wl,-rpath,/opt/ros/fuerte/lib 
